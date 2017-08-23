@@ -1,0 +1,146 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	-webkit-font-smoothing: antialiased;
+	font: 12px/1.5 Microsoft YaHei,tahoma,arial,Hiragino Sans GB,\\5b8b\4f53,sans-serif;
+	color: #666;
+	display: block;
+}
+
+.index {
+	background-color: #f6f6f6;
+}
+
+#advert {
+	position: relative;
+	height: 80px;
+	z-index: 30;
+	background-color: #090303;
+}
+
+.grid_c1 {
+	position: relative;
+	width: 1190px;
+	/*height: 100%;*/
+	margin:0 auto;
+}
+
+.iconfont {
+	/*font-family: iconfont;*/
+	font-style: normal;
+	font-size: normal;
+}
+
+/*导航栏*/
+#shortcut {
+	min-width: 1190px;
+	height: 30px;
+	border-bottom: 1px solid #ddd;
+	background-color: #e3e4e5;
+}
+
+#header {
+	height: 140px;
+	/*background-color: #0066CC;*/
+}
+
+.fs {
+	height: 480px;
+	position: relative;
+	z-index: 9;
+	margin-bottom: 10px;
+	/*background-color: #006633*/
+}
+
+.sk, .fbt, .coupon, .rec, .entry_c3, .chn_t, .chn, .entry_c7, .more {
+	margin-bottom: 30px;
+}
+
+.sk {
+	min-width: 1190px;
+	height: 305px;
+	/*background-color: #009966;*/
+}
+
+.fbt {
+	min-width: 1190px;
+	height: 444px;
+	/*background-color: #009999;*/
+}
+
+.coupon {
+	min-width: 1190px;
+	height: 270px;
+	/*background-color: #0066CC;*/
+}
+
+.rec {
+	min-width: 1190px;
+	height: 100px;
+	background-color: #e0e0e0;
+}
+
+.entry_c3 {
+	min-width: 1190px;
+	height: 585px;
+	/*background-color: #0066FF;*/
+}
+
+.chn_t {
+	min-width: 1190px;
+	height: 578px;
+	/*background-color: #009933;*/
+}
+
+.chn {
+	min-width: 1190px;
+	height: 523px;
+	/*background-color: #009999;*/
+}
+
+.entry_c7 {
+	min-width: 1190px;
+	height: 195px;
+	/*background-color: #00FFFF;*/
+}
+
+.more {
+	min-width: 1190px;
+	min-height: 300px;
+	height: 100%;
+	/*background-color: #330099;*/
+}
+
+.mod_footer {
+	min-width: 1190px;
+	height: 500px;
+	background-color: #eaeaea;
+}
+
+.mod_service {
+	min-width: 1190px;
+	height: 42px;
+	padding: 30px 0;
+	border-bottom: 1px solid #dedede;
+
+}
+
+.mod_help {
+	height: 160px;
+	padding: 20px 0;
+	min-width: 1190px;
+	/*background-color: #eaeaea;*/
+}
+
+.copyright {
+	height: 193px;
+	min-width: 1190px;
+	/*background-color: #eaeaea;*/
+}
+
+.more_inner {
+	/*height: 3250px;*/
+}
